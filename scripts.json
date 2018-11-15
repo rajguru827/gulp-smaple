@@ -1,0 +1,23 @@
+[
+	"./assets/js/polyfills.js",
+	"./assets/js/modernizr.js",
+	"./assets/js/jquery-1.12.4.min.js",
+	"./assets/vendor/angular/js/angular.min.js",
+	"./assets/vendor/angular/js/ui-bootstrap-tpls-2.2.0.min.js",
+	"./assets/vendor/angular/js/angular-ui-router.js",
+	"./assets/vendor/angular/js/angular-animate.min.js",
+	"./assets/vendor/angular/js/angular-sanitize.min.js",
+	"./assets/vendor/angular/js/angular-touch.min.js",
+	"./assets/vendor/angular/js/ui-utils.js",
+	"./assets/vendor/angular/js/ocLazyLoad.min.js",
+	"./assets/vendor/angular/js/angular-growl.min.js",
+	"./assets/vendor/angular/js/ngStorage.min.js",
+	"./assets/vendor/angular/js/angular-cookies.min.js",
+	"./assets/vendor/angular/js/angular-base64.js",
+	"./assets/vendor/angular-loading-bar/loading-bar.min.js",
+	"./assets/vendor/ng-infinite-scroll/ng-infinite-scroll.min.js",
+	"./assets/vendor/checkbo/js/checkBo.min.js",
+	"./assets/vendor/perfect-scrollbar/js/perfect-scrollbar.jquery.js",
+	"./assets/js/fastclick.js",
+	"./assets/js/svg4everybody.min.js"
+]

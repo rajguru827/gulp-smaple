@@ -1,0 +1,14 @@
+[
+	"./assets/vendor/bootstrap/css/bootstrap.css",
+	"./assets/vendor/kendoUi/styles/kendo.common-bootstrap.min.css",
+	"./assets/vendor/kendoUi/styles/kendo.bootstrap.min.css",
+	"./assets/vendor/kendoUi/styles/kendo.bootstrap.mobile.min.css",
+	"./assets/vendor/angular/css/angular-growl.css",
+	"./assets/vendor/checkbo/css/checkBo.css",
+	"./assets/vendor/perfect-scrollbar/css/perfect-scrollbar.css",
+	"./assets/css/roboto.css",
+	"./assets/vendor/font-awesome-4.6.3/css/font-awesome.min.css",
+	"./assets/css/animate.css",	
+	"./assets/css/urban.css",
+	"./assets/css/custom.css"
+]
